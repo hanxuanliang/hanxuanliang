@@ -20,7 +20,6 @@ I ❤ Open Source. I love [Go](https://golang.org) and [Rust](https://www.rust-l
 * A novice Rust learner
 * A developer who loves databases
 
-[![hanxuanliang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hanxuanliang&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=hanxuanliang&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **This week I spent my time on**
