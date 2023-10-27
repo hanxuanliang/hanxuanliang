@@ -26,11 +26,11 @@ I ❤ Open Source. I love [Go](https://golang.org) and [Rust](https://www.rust-l
 <!--START_SECTION:waka-->
 
 ```txt
-Go                15 hrs 40 mins  ███████████▒░░░░░░░░░░░░░   45.24 %
-Rust              7 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
-Python            7 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
-SQL               1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Protocol Buffer   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Go                19 hrs 22 mins  ████████████▓░░░░░░░░░░░░   50.37 %
+Python            7 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Rust              6 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+SQL               1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Protocol Buffer   1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
