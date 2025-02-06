@@ -26,11 +26,11 @@ I ❤ Open Source. I love [Go](https://golang.org) and [Rust](https://www.rust-l
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         8 hrs 39 mins   ██████████████████▒░░░░░░   73.25 %
-Python       1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-TOML         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Rust         6 hrs 33 mins   █████████████████████▓░░░   86.80 %
+TOML         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Python       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
